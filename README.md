@@ -1,31 +1,40 @@
 WsCube Tech Website Clone
 
-A responsive WsCube Tech Digital Marketing Course website clone built using HTML and CSS. This project focuses on recreating a modern, professional course landing page with a clean and user-friendly interface.
+A responsive WsCube Tech Digital Marketing Course website clone built using HTML5 and CSS3. The project recreates the look and feel of a modern course landing page with a clean, structured, and user-friendly interface.
 
-Key Features
+🚀 Features
 
-Digital Marketing course hero section
+* Digital Marketing course hero section
+* Course highlights and benefits
+* Career opportunities section
+* Certification section
+* Detailed course curriculum
+* Why Learn Digital Marketing section
+* Student testimonials
+* Frequently Asked Questions (FAQ)
+* Course registration and Call-to-Action sections
+* Clean and modern user interface
 
-Course highlights and benefits
+🛠️ Technologies Used
 
-Career opportunities section
+* HTML5
+* CSS3
 
-Certification section
+📚 What I Learned
 
-Course curriculum
+Through this project, I improved my understanding of:
 
-Why Learn Digital Marketing section
+* Responsive web design
+* CSS layouts and positioning
+* Flexbox and responsive structures
+* Spacing and typography
+* Creating reusable UI sections
+* Building modern website interfaces from scratch
 
-Student testimonials
+## Live Demo
 
-FAQ section
+🔗 https://hemantsharma7707.github.io/-wscubetech-website-clone/
 
-Course registration and call-to-action sections
+📌 Disclaimer
 
-Clean and modern UI inspired by the original WsCube Tech website
-
-Technologies Used
-
-HTML5 | CSS
-
-This project helped me improve my skills in responsive web design, CSS, layouts, spacing, typography, and creating modern website interfaces from scratch.
+This project was created for educational and practice purposes. It is a frontend clone inspired by the WsCube Tech website and is not affiliated with or endorsed by WsCube Tech.
